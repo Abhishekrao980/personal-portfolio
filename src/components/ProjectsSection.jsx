@@ -17,7 +17,7 @@ const projects = [
       "Simple, intuitive expense tracker to manage and monitor daily spending.",
     image: "/projects/project2.png",
     tags: ["React", "MongoDB", "Node.js"],
-    demoUrl: "https://github.com/Abhishekrao980/expense-tracker",
+    demoUrl: "https://expense-tracker-lac-ten-66.vercel.app/",
     githubUrl: "https://github.com/Abhishekrao980/expense-tracker",
   },
   {
