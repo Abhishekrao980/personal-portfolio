@@ -27,7 +27,7 @@ const projects = [
       "Full-featured e-commerce platform with user authentication.",
     image: "/projects/project3.png",
     tags: ["React", "Node.js", "Bootstrap"],
-    demoUrl: "https://github.com/Abhishekrao980/supermall-web-application",
+    demoUrl: "https://supermall-web-application.vercel.app/",
     githubUrl: "https://github.com/Abhishekrao980/supermall-web-application",
   },
 ];
